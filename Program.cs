@@ -1,6 +1,5 @@
 ﻿using System;
 using System.IO;
-
 namespace MainProject_1
 {
     internal class Program
@@ -11,7 +10,7 @@ namespace MainProject_1
             {
 
                 string path = "D:\\C# Programme\\MainProject\\MainProject_1\\MainProject_1\\";
-                Console.WriteLine("Enter file name to read out form");
+                Console.WriteLine("Enter file name to read out StudentData");
                 string fname = Console.ReadLine();
                 string fpath = path + fname;
                 if (File.Exists(fpath))
