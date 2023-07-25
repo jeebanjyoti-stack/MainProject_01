@@ -1,0 +1,11 @@
+StudentData:
+===================
+Sl.No    Name            Rollno    Age
+======  ======           ======    ====
+1.      Abinash           20        16  
+2.	Himanshu	  15        17
+3.	Harry		  43        17
+4.	John              10        15
+5.	Reyansh           16        18
+6.      Abhijit           50        16
+
